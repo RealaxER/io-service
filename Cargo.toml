@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "packages/io-service",
+    "packages/cores/lumi-utils",
+    "packages/cores/message"
+]
+resolver = "1"
